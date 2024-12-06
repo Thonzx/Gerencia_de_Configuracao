@@ -12,7 +12,6 @@ Abaixo está a estrutura principal do repositório, com uma breve descrição de
 .
 ├── Audits/               # Relatórios de auditoria do sistema
 ├── Changes/              # Changelog com o histórico de mudanças
-├── Config/               # Arquivos de configuração do sistema e ferramentas
 ├── Docs/                 # Documentação técnica e funcional do projeto
 ├── Releases/             # Histórico de releases e notas de versão
 ├── Scripts/              # Scripts de automação e testes
